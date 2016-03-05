@@ -67,7 +67,7 @@ void Foth433::setTemperature(float temperature)
 */
 void Foth433::sendData(void)
 {
-	//for (int i=0; i<_repeats; i++)
+	for (int i=0; i<_repeats; i++)
 	{
 		sendStart();
 		sendDeviceCode();
