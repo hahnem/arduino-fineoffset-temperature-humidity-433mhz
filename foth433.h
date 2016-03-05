@@ -8,7 +8,7 @@
  * http://lucsmall.com/2012/04/27/weather-station-hacking-part-1/
  *
  * Created by Martin Hahne, 2016
- * Released into the public domain.
+ * MIT Licensed, see LICENSE.md
 */
 #ifndef FOTH433_h
 #define FOTH433_h
