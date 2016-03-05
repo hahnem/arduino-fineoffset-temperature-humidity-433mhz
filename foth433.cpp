@@ -1,3 +1,15 @@
+/**
+ * FOTH433.cpp - FineOffset temperature and humidity transmitter.
+ *
+ * Library for sending temperature and humidity data over 433Mhz, using the Fineoffset protocol.
+ * Note: Checksum is not implemented, but still works for tellstick duo.
+ *
+ * Protocol description from:
+ * http://lucsmall.com/2012/04/27/weather-station-hacking-part-1/
+ *
+ * Created by Martin Hahne, 2016
+ * MIT Licensed, see LICENSE.md
+*/
 #include "foth433.h"
 
 /**
