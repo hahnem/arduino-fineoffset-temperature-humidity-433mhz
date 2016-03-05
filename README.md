@@ -1,4 +1,5 @@
 # arduino-fineoffset-temperature-humidity-433mhz
+Library for sending temperature and humidity data from an arduino, to a tellstick duo using Fineoffset 433Mhz protocol, using a TX433N.
 
 ## Example usage
 
